@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.3.1
 
-* System dependencies
+* System dependencies: Added in Gemfile
 
 * Configuration
 
-* Database creation
+* Database creation: Postgresql
 
 * Database initialization
 
