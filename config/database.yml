@@ -2,8 +2,8 @@ default: &default
   adapter: postgresql
   encoding: unicode
   pool: 5
-  username: dude
-  password: supersecret
+  username: postgres
+  password: harry774
 
 development:
   <<: *default
